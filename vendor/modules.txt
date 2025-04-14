@@ -1,0 +1,3 @@
+# pgregory.net/rand v1.0.2
+## explicit; go 1.18
+pgregory.net/rand
