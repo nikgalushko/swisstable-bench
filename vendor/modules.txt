@@ -1,3 +1,17 @@
+# github.com/cockroachdb/swiss v0.0.0-20250327203710-2932b022f6df
+## explicit; go 1.21
+github.com/cockroachdb/swiss
+# github.com/crn4/swiss v0.0.0-20241005224259-45fab3684456
+## explicit; go 1.23.0
+github.com/crn4/swiss
+github.com/crn4/swiss/hash
+# github.com/dolthub/maphash v0.1.0
+## explicit; go 1.18
+github.com/dolthub/maphash
+# github.com/dolthub/swiss v0.2.1
+## explicit; go 1.18
+github.com/dolthub/swiss
+github.com/dolthub/swiss/simd
 # pgregory.net/rand v1.0.2
 ## explicit; go 1.18
 pgregory.net/rand
